@@ -1,4 +1,4 @@
-SwitchEpmsConnect
+SwitchEpmsConnectPublic
 =================
 
-EPMS Connect Switch configurators
+Public code from SwitchEpmsConnect library setup as a git submodule.
